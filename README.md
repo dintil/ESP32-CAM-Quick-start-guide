@@ -1,7 +1,6 @@
 # ESP32-CAM-Quick-start-guide
 A guide on how ESP32-CAM can be used.
 All credit goes to "IoT Bhai", who made this video: https://www.youtube.com/watch?v=duUngvvYNPE
-I have not written the original code, and am not sure who is the original owner.
 
 This guide explains how to configure the ESP32 within Arduino IDE v2.
 The ESP32-CAM this guide is for, is not an ESP32-S2 or ESP32-S3, so if you have any other version, your experience may differ.
